@@ -58,3 +58,13 @@ A complete MERN stack Application . A Simple Expense Tracker to keep track of ex
   - Link [https://github.com/Prathamesh017/Expense-Tracker-2.0]
   - Demo [https://expense-frontend-bivqktt7h-prathamesh017.vercel.app/]
 
+## Tech Geek Hiring App
+Tech Geek is a Full Stack Hiring App. Companies can effortlessly create profiles, post jobs, while candidates build profiles and apply seamlessly.The Tech Geek app t combines the power of Next.js frontend with a robust backend built on TypeScript, GraphQL, Prisma, and MongoDB. 
+Tech Used Client - NextJS, Server - TypeScript, GraphQL, Prisma, and MongoDB
+- ![600x200](https://via.placeholder.com/600x200)
+- Tags:Tech Geek Hiring App
+- Badges:
+  - Badge [blue]
+- Buttons:
+  - Link [https://github.com/Prathamesh017/hiring-app]
+  - Demo [ https://hiring-prlfi89wg-prathamesh017.vercel.app/]

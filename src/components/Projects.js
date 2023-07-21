@@ -26,12 +26,13 @@ import image2 from '../Images/image-2.png'
 import image3 from '../Images/image-3.png'
 import image4 from '../Images/image-4.png'
 import image5 from '../Images/image-5.png'
+import image6 from "../Images/image-6.png"
 
 export default function Projects({ color }) {
   const projects = ProjectsArray()
   const others = OtherProjectsArray()
   const options = TagsArray('ProjectsTags')
-  const image = [image0, image1, image2, image3, image4, image5]
+  const image = [image0, image1, image2, image3, image4, image5,image6]
 
   const [selected, setSelected] = useState('All')
   console.log(projects)

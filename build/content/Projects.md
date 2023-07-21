@@ -1,3 +1,12 @@
+## Tech Geek Hiring App
+Tech Geek is a Full Stack Hiring App. Companies can effortlessly create profiles, post jobs, while candidates build profiles and apply seamlessly.The Tech Geek app combines the power of Next.js frontend with a robust backend built on TypeScript, GraphQL, Prisma, and MongoDB.Tech Used Client - NextJS, Server - TypeScript, GraphQL, Prisma, and MongoDB
+- ![600x200](https://via.placeholder.com/600x200)
+- Tags: Tech Geek Hiring App
+- Badges:
+  - Badge [blue]
+- Buttons:
+  - Link [https://github.com/Prathamesh017/hiring-app]
+  - Demo [ https://hiring-prlfi89wg-prathamesh017.vercel.app/]
 ## Chat Please App
 Chat Please APP is a Full Stack Chatting App.User needs to Register First then can search for other users for chat. It stores user details in encrypted format in Mongo DB Database .User Can Also Create Groups for Chating.Tech Used Client - React, Server - NodeJs,Express Mongo
 - ![600x200](https://via.placeholder.com/600x200)
